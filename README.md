@@ -15,6 +15,8 @@ e.g.
   });
 
 7. Run script "test" in package.json or hit "F5" in visual studio code
+   
    "test": "cucumber-js test/features --tags @api --format progress-bar summary"
+   
    It ill run all scenarios with @api tag and show progress-bar and results summary in the terminal
    
