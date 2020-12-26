@@ -10,10 +10,10 @@ nodejs cucumber.js Gherkin REST API boilerplate
 6. Set your tested URI at init.js file
 e.g. 
 
-Before(function() {
+  Before(function() {
   // This hook will be executed before all scenarios
   this.apickli = new apickli.Apickli('https', 'gorest.co.in/public-api/'); 
-});
+  });
 
 7. Run script "test" in package.json or hit "F5" in visual studio code
    
