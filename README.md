@@ -6,8 +6,7 @@ Based on: https://github.com/apickli/apickli
 3. Run "npm install". it will install all required dependencies from package.json
 4. Write your own scenarios and features files
 5. Add new step defenitions when required under given.js,when.js,then.js 
-6. Set your tested URI at init.js file.I tested gorest.co.in 
-e.g. 
+6. Set your tested URI at init.js file.I tested gorest.co.in e.g. 
 
   Before(function() {
   // This hook will be executed before all scenarios
