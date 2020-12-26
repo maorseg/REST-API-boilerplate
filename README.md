@@ -6,8 +6,10 @@ nodejs cucumber.js Gherkin REST API boilerplate
 2. In terminal type: "cd source" (source is our source code folder)
 3. Run "npm install". it will install all required dependencies from package.json
 4. Write your own scenarios and features files
-5. Run script "test" in package.json or hit "F5" in visual studio code
+5. Add new step defenitions when required under given.js,when.js,then.js 
+6. Run script "test" in package.json or hit "F5" in visual studio code
    
    "test": "cucumber-js test/features --tags @api --format progress-bar summary"
    
    It ill run all scenarios with @api tag and show progress-bar and results summary in the terminal
+   
