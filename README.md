@@ -1,6 +1,5 @@
 # REST-API-boilerplate
 Based on: https://github.com/apickli/apickli
-nodejs cucumber.js Gherkin REST API boilerplate
 
 1. Download and extract zip file
 2. In terminal type: "cd source" (source is our source code folder)
