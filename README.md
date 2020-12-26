@@ -6,7 +6,7 @@ Based on: https://github.com/apickli/apickli
 3. Run "npm install". it will install all required dependencies from package.json
 4. Write your own scenarios and features files
 5. Add new step defenitions when required under given.js,when.js,then.js 
-6. Set your tested URI at init.js file
+6. Set your tested URI at init.js file.I tested gorest.co.in 
 e.g. 
 
   Before(function() {
@@ -15,8 +15,6 @@ e.g.
   });
 
 7. Run script "test" in package.json or hit "F5" in visual studio code
-   
    "test": "cucumber-js test/features --tags @api --format progress-bar summary"
-   
    It ill run all scenarios with @api tag and show progress-bar and results summary in the terminal
    
