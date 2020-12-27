@@ -4,6 +4,7 @@ Based on: https://github.com/apickli/apickli
 1. Clone or download and extract the zip file on your computer 
 https://github.com/maorseg/REST-API-boilerplate.git
 or
+REST-API-boilerplate-main.zip
 
 2. In terminal type: "cd source" (source is our source code folder)
 3. Run "npm install". it will install all required dependencies from package.json
