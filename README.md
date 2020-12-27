@@ -1,7 +1,7 @@
 # REST-API-boilerplate
 Based on: https://github.com/apickli/apickli
 
-1. Download and extract zip file
+1. Clone or download and extract zip file on your computer - https://github.com/maorseg/REST-API-boilerplate.git
 2. In terminal type: "cd source" (source is our source code folder)
 3. Run "npm install". it will install all required dependencies from package.json
 4. Write your own scenarios and features files
