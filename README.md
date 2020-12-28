@@ -1,4 +1,4 @@
-# REST-API-boilerplate cucumber.js
+# REST-API-boilerplate Cucumber.js
 Based on: https://github.com/apickli/apickli
 
 How to Start:
